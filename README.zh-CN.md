@@ -1,6 +1,6 @@
 # 代码与计算复现说明
 
-本仓库对应论文《Calibrated carrier attribution for pathway sensitivity in microbial composition models》。英文入口和完整运行命令见[README](README.md)。
+本仓库对应论文《Efficient and Verifiable Carrier-Level Shapley Attribution for Pathway Sensitivity in Microbial Composition Models》。英文入口和完整运行命令见[README](README.md)。
 
 ## 最短验证流程
 
