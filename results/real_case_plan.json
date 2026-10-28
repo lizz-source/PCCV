@@ -1,0 +1,91 @@
+{
+  "discovery_sample_ids": [
+    "SAMEA7045048",
+    "MH0053.1",
+    "PNP_Main_254",
+    "HD-14",
+    "SAMEA7045462",
+    "MG100153",
+    "SAMEA104142390",
+    "SAMEA7045072",
+    "A39_01_1FE",
+    "SAMEA7045301",
+    "S156_a_WGS",
+    "G89269",
+    "EGAR00001420335_9002000001271970",
+    "PNP_Main_308",
+    "EGAR00001420177_9002000001210705",
+    "EGAR00001421095_9002000001523915",
+    "PNP_Main_160",
+    "EGAR00001420499_9002000001349142LL",
+    "PNP_Main_664",
+    "EGAR00001420448_9002000001331460",
+    "M0x10MCx1875",
+    "NLM021",
+    "YSZC12003_36667",
+    "SAMEA7045522",
+    "P7C0",
+    "G88692",
+    "SID5441-1",
+    "SAMEA7045446",
+    "MH0126",
+    "MH0147.1",
+    "EGAR00001420195_9002000001216389",
+    "SAMEA7045535",
+    "EGAR00001420941_9002000001464171"
+  ],
+  "test_sample_ids": [
+    "CM.29_WGS",
+    "GupDM_HAK",
+    "EGAR00001421152_9002000001547520",
+    "MH0110",
+    "MSM9VZNH",
+    "EGAR00001420779_9002000001424962",
+    "HD-23",
+    "SAMEA7045341",
+    "SAMEA7045537",
+    "SAMEA7045170",
+    "CON-035",
+    "EGAR00001420937_9002000001463399",
+    "CRC_MR_SBJ34H_17",
+    "MH0184",
+    "HD-37",
+    "CRC_MR_SBJ68H_17",
+    "MH0116",
+    "YSZC12003_36390"
+  ],
+  "pathways": [
+    {
+      "id": "ko02020",
+      "kind": "high_response",
+      "discovery_mean_bc": 0.04736118018627167
+    },
+    {
+      "id": "ko05111",
+      "kind": "high_response",
+      "discovery_mean_bc": 0.043084826320409775
+    },
+    {
+      "id": "ko04141",
+      "kind": "high_response",
+      "discovery_mean_bc": 0.03823981061577797
+    },
+    {
+      "id": "ko00562",
+      "kind": "matched_background",
+      "discovery_mean_bc": 0.01858125627040863
+    },
+    {
+      "id": "ko00780",
+      "kind": "matched_background",
+      "discovery_mean_bc": 0.03790939971804619
+    },
+    {
+      "id": "ko00333",
+      "kind": "matched_background",
+      "discovery_mean_bc": 0.021876655519008636
+    }
+  ],
+  "selection_rule": "3 highest validation mean responses and 1 nearest training-carrier-background control per selected pathway; 18 hash-selected test samples stratified by richness",
+  "exclusion_rule": "fewer than two present carriers"
+}

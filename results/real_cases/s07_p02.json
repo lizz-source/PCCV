@@ -1,0 +1,10 @@
+{
+  "sample_id": "SAMEA7045341",
+  "pathway_id": "ko04141",
+  "n_carriers": 82,
+  "joint_bc": 0.029856018722057343,
+  "query_evaluations_this_run": 10633,
+  "seconds_this_run": 13.95141139999032,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "689d9154b80345441d920e5bc8a357bb40705c4a7b29985740f069fbdcfd202a"
+}

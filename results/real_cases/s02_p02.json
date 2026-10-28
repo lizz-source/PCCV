@@ -1,0 +1,10 @@
+{
+  "sample_id": "EGAR00001421152_9002000001547520",
+  "pathway_id": "ko04141",
+  "n_carriers": 57,
+  "joint_bc": 0.06120395287871361,
+  "query_evaluations_this_run": 7483,
+  "seconds_this_run": 6.180982400022913,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "9d5a004a0f4f8d6fa68a884c4e00a8d8943dc794135f331f8f75d2a6fc9ae6a3"
+}

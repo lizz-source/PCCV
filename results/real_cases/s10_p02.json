@@ -1,0 +1,10 @@
+{
+  "sample_id": "CON-035",
+  "pathway_id": "ko04141",
+  "n_carriers": 89,
+  "joint_bc": 0.04006832838058472,
+  "query_evaluations_this_run": 11515,
+  "seconds_this_run": 20.74222800001735,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "c4c38acde3291a4d3ee176804d79b7593216e7c8eb4caa02035fdc9942801f09"
+}

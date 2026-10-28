@@ -1,0 +1,24 @@
+{
+  "epochs": [
+    {
+      "epoch": 1,
+      "training_bc": 0.5134439468383789,
+      "validation_bc": 0.4703794436589364,
+      "elapsed_seconds": 8.112678200006485
+    },
+    {
+      "epoch": 2,
+      "training_bc": 0.4453389832353967,
+      "validation_bc": 0.4646780125213109,
+      "elapsed_seconds": 16.370988900016528
+    },
+    {
+      "epoch": 3,
+      "training_bc": 0.43415477824962045,
+      "validation_bc": 0.43772874120193694,
+      "elapsed_seconds": 24.461327199998777
+    }
+  ],
+  "estimated_6_models_40_epochs_seconds": 2012.3656400013715,
+  "finite_training": true
+}

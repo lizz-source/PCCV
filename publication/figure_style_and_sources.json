@@ -1,0 +1,145 @@
+{
+  "font": "Times New Roman",
+  "font_path": "Times New Roman resolved by the local font manager",
+  "palette": {
+    "probe_cubic_cv": "#214E76",
+    "antithetic_mc": "#25877F",
+    "proportional": "#B65F45",
+    "single_deletion": "#C59B36",
+    "endpoint_average": "#8873A6",
+    "kernel_shap": "#A95170",
+    "poly_shap_degree3_paired": "#6C8242",
+    "poly_shap_degree3_unpaired": "#7561A3",
+    "prior": "#A3ADB4",
+    "abundance": "#718D99"
+  },
+  "method_labels": {
+    "probe_cubic_cv": "PCCV",
+    "antithetic_mc": "Permutation sampling",
+    "proportional": "Annotation allocation",
+    "single_deletion": "Single deletion",
+    "endpoint_average": "Endpoint mean",
+    "kernel_shap": "KernelSHAP",
+    "poly_shap_degree3_paired": "PolySHAP 3 paired",
+    "poly_shap_degree3_unpaired": "PolySHAP 3 unpaired"
+  },
+  "figures": [
+    {
+      "figure": "Figure1_exact_sparse_inference",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/compression_benchmark.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure1_exact_sparse_inference.csv"
+    },
+    {
+      "figure": "Figure2_ground_truth_attribution",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/controlled_attribution_metrics.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure2_ground_truth_attribution.csv"
+    },
+    {
+      "figure": "Figure3_matched_budget_estimation",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/cv_matched_budget_evaluation.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure3_matched_budget_estimation.csv"
+    },
+    {
+      "figure": "Figure4_predictor_controls",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/model_test_summary.csv",
+        "results/presence_conditioned_prior_test.csv",
+        "study_holdout/results/annotation_seed11.json",
+        "study_holdout/results/presence_conditioned_prior_test.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure4_predictor_controls.csv"
+    },
+    {
+      "figure": "Figure5_real_perturbation_faithfulness",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/real_deletion_curves.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure5_real_perturbation_faithfulness.csv"
+    },
+    {
+      "figure": "Figure6_exactness_and_sampling",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/real_exact_subgames.csv",
+        "results/real_sampling_convergence.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure6_exactness_and_sampling.csv"
+    },
+    {
+      "figure": "Figure7_carrier_context_profiles",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/real_attributions.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure7_carrier_context_profiles.csv"
+    },
+    {
+      "figure": "Figure8_larger_games_and_kernel_baseline",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/larger_game_matched_budget.csv",
+        "results/poly_shap_matched_budget.csv"
+      ],
+      "derived_table": "publication/figure_data/Figure8_larger_games_and_kernel_baseline.csv"
+    },
+    {
+      "figure": "Figure10_real_carrier_case",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "results/real_attributions.csv",
+        "results/real_case_plan.json"
+      ],
+      "derived_table": "publication/figure_data/Figure10_real_carrier_case.csv"
+    },
+    {
+      "figure": "Figure9_method_framework",
+      "font": "Times New Roman",
+      "raster_dpi": 600,
+      "source_files": [
+        "docs/METHODS.md",
+        "src/cv_shapley.py",
+        "src/common.py"
+      ],
+      "derived_table": null
+    }
+  ],
+  "frozen_source_sha256": {
+    "results/compression_benchmark.csv": "43d94cc169381c9823e506c00594c794db35db0e9ce2cfba3556228a286f6ce0",
+    "results/controlled_attribution_metrics.csv": "9a06ecdf6a624d147aea81e4d02cb7fddb3d1b6e27d4ee04de0080bfd028a231",
+    "results/cv_matched_budget_evaluation.csv": "140a677f0f7b3fb5c98c73b877524691569f5c5a618e6c631ba768a7db500e54",
+    "results/model_test_summary.csv": "cd671f30bf5197d0c64d7e737a970ca82aeb62f906fe502bbaa6d77ca0114253",
+    "results/presence_conditioned_prior_test.csv": "ce6fb24948ef7b0808794f7b8da369ec4d4eb3cbd290e25da38075e3688cb1f8",
+    "study_holdout/results/annotation_seed11.json": "09a25614c52ebedcbb7937532051b960174ea16ac182e71082b008c15f81ce17",
+    "study_holdout/results/presence_conditioned_prior_test.csv": "3737cd7ad1af1de56168fb8a7dca4db3c584b6276d5afcde03727687f7037d3d",
+    "results/real_deletion_curves.csv": "19a7fbc759f336309b5f97e829228dc6d10b4d3256c90c897d2c52f2d7359612",
+    "results/real_exact_subgames.csv": "9346fbbe48fe14c2cdde29c1b26eb5b9a0947fbc958a028e65d9e3bc50c09bec",
+    "results/real_sampling_convergence.csv": "942f53ca8194a917fe7c3ee192f872da9e264cf412dd7901ae99bf54efd5198c",
+    "results/real_attributions.csv": "4aec4f3713bab77a6bb12fcd059f7d67b762fa229fa546a61687c1d4c0e9a916",
+    "results/larger_game_matched_budget.csv": "eb0fc6b4dbcc5561c2212820084401626831796927c02f94215acba165153554",
+    "results/poly_shap_matched_budget.csv": "46f44ca64b7a3a630949848831af44fae1a5d8a7fc4145369fd519b4db70ae95",
+    "results/real_case_plan.json": "119bf84218ca8da3c0af3af8127d9800867724bf98bc900d4d9d9a0c281b32ba"
+  },
+  "new_experiments": false,
+  "case_carriers": 78,
+  "case_negative_carriers": 9
+}

@@ -1,0 +1,7 @@
+{
+  "parity_max_error": 2.4437904357910156e-06,
+  "archival_recovery_max_error": 0.04889809340238571,
+  "archival_recovery_mean_error": 0.019370079040527344,
+  "median_sample_forward_seconds": 0.0011121666620509878,
+  "projected_72_cases_16_permutations_seconds": 115.30943952144642
+}

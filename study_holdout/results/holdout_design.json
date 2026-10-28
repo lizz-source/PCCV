@@ -1,0 +1,9 @@
+{
+  "heldout_study": "AsnicarF_2021",
+  "selection": "largest study by verified sample count, chosen without examining model performance",
+  "n_train": 1792,
+  "n_validation": 321,
+  "n_test": 544,
+  "n_excluded_unverified_or_ambiguous": 237,
+  "train_validation_subject_overlap": 0
+}

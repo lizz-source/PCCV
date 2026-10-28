@@ -1,0 +1,14 @@
+{
+  "cases": 108,
+  "excluded": 0,
+  "methods": [
+    "proportional",
+    "abundance",
+    "uniform",
+    "single_deletion",
+    "endpoint_average",
+    "antithetic_mc",
+    "probe_cubic_cv"
+  ],
+  "exact_subgames": 6
+}

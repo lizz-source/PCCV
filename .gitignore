@@ -1,0 +1,15 @@
+# Local dependencies and execution output
+.venv/
+vendor/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+runtime_tmp/
+runs/
+/figures/
+logs/
+publication/figure_previews/
+publication/tmp/
+*.log
+.DS_Store
+Thumbs.db

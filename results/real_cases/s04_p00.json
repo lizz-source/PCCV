@@ -1,0 +1,10 @@
+{
+  "sample_id": "MSM9VZNH",
+  "pathway_id": "ko02020",
+  "n_carriers": 77,
+  "joint_bc": 0.06848584115505219,
+  "query_evaluations_this_run": 10003,
+  "seconds_this_run": 11.575971000012942,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "35620fed10544d3ae004bcecd01830acec6f7496dfa60f888998228cb5f0923e"
+}

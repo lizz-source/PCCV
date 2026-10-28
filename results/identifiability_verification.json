@@ -1,0 +1,7 @@
+{
+  "observed_membership_patterns": 255,
+  "predictors": 5,
+  "observational_equality_max_error": 0.0,
+  "largest_intervention_mean_bc_disagreement": 0.4161619566078641,
+  "pass": true
+}

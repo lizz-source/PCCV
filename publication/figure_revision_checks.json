@@ -1,0 +1,77 @@
+{
+  "all_pass": true,
+  "figure_count": 10,
+  "main_figures": 9,
+  "supplementary_figures": 1,
+  "font": "Times New Roman",
+  "font_checks": [
+    {
+      "figure": "Figure1_exact_sparse_inference",
+      "svg_text_elements": 28,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure2_ground_truth_attribution",
+      "svg_text_elements": 31,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure3_matched_budget_estimation",
+      "svg_text_elements": 47,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure4_predictor_controls",
+      "svg_text_elements": 23,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure5_real_perturbation_faithfulness",
+      "svg_text_elements": 35,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure6_exactness_and_sampling",
+      "svg_text_elements": 29,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure7_carrier_context_profiles",
+      "svg_text_elements": 42,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure8_larger_games_and_kernel_baseline",
+      "svg_text_elements": 50,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure10_real_carrier_case",
+      "svg_text_elements": 38,
+      "font_pass": true
+    },
+    {
+      "figure": "Figure9_method_framework",
+      "svg_text_elements": 52,
+      "font_pass": true
+    }
+  ],
+  "matched_budget_and_control_medians_verified": 96,
+  "normalized_curve_values_verified": 70,
+  "exact_conditional_medians_verified": 18,
+  "compression_records_verified": 18,
+  "profile_display_cells_verified": 252,
+  "case_complete_carriers_verified": 78,
+  "displayed_carriers": 6,
+  "negative_carriers": 9,
+  "selection": "First frozen sample and pathway; display selection rule disclosed",
+  "source_values_and_ranks_match": true,
+  "summary_correction": {
+    "panel": "Figure 4B",
+    "reason": "Preserve the literal null family label instead of parsing it as missing data; explicitly exclude ten fully null games",
+    "nonnull_games_per_method": 40,
+    "annotation_allocation_null_mass_median": 0.5380581003000501
+  },
+  "new_experiments": false,
+  "frozen_results_modified": false
+}

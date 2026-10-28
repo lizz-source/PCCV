@@ -1,0 +1,10 @@
+design,representation,seed,test_jsd
+Internal,annotation,11,0.14478256548273152
+Internal,annotation,22,0.14155720359292523
+Internal,annotation,33,0.14209056177401336
+Internal,fixed_shuffled_annotation,11,0.14716711434824714
+Internal,fixed_shuffled_annotation,22,0.14787806205708406
+Internal,fixed_shuffled_annotation,33,0.14712007097129165
+Internal,conditional_prior,,0.19803982186398086
+Study holdout,annotation,11,0.12188044312300489
+Study holdout,conditional_prior,,0.1448744015775843

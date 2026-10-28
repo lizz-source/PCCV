@@ -1,0 +1,12 @@
+{
+  "representation": "annotation",
+  "seed": 11,
+  "epochs": 28,
+  "selected_epoch": 20,
+  "validation_bc": 0.41101482503699815,
+  "test_bc": 0.4105089529492389,
+  "test_jsd": 0.14478256548273152,
+  "test_mean_absent_mass": 0.0007608612006779053,
+  "seconds": 246.00640949996887,
+  "checkpoint_sha256": "db3bc402e8e636d88eded8593d65e00d53923e867f43b2c72a5cbd05abea303f"
+}

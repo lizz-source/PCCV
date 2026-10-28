@@ -1,0 +1,10 @@
+{
+  "sample_id": "CM.29_WGS",
+  "pathway_id": "ko00780",
+  "n_carriers": 77,
+  "joint_bc": 0.021099617704749107,
+  "query_evaluations_this_run": 10003,
+  "seconds_this_run": 11.344628099992406,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "7d4a4243afb7fb9774b155fb262b437c7b1bee52eb0e63f19dba022ce98941a9"
+}

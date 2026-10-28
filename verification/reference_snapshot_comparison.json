@@ -1,0 +1,22 @@
+{
+  "all_inputs_checkpoints_and_raw_results_unchanged": true,
+  "unchanged_archived_data_files": 441,
+  "derived_reporting_files_changed": [
+    "results/final_scientific_summary.json",
+    "results/final_verification.json"
+  ],
+  "reason": "Derived reporting regenerated with literal null-family preservation and clean final-check reporting; archived timings retained.",
+  "reporting_round_trip_checks": [
+    {
+      "file": "paired_cluster_bootstrap.csv",
+      "maximum_round_trip_difference": 2.220446049250313e-16,
+      "archived_bytes_retained": true
+    },
+    {
+      "file": "real_method_summary.csv",
+      "maximum_round_trip_difference": 1.1102230246251565e-16,
+      "archived_bytes_retained": true
+    }
+  ],
+  "immutable_original_bundle_sha256": "d62d2145ef61985aa7fba2e82c1d0ae862d7d27d26dea22197a19c6f307e4ac0"
+}

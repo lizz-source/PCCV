@@ -1,0 +1,10 @@
+{
+  "sample_id": "HD-37",
+  "pathway_id": "ko02020",
+  "n_carriers": 123,
+  "joint_bc": 0.04146500676870346,
+  "query_evaluations_this_run": 15799,
+  "seconds_this_run": 31.879407699976582,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "c7bf1119ace10ed19d04b088ad5a9028869aaddb7fdb4ab17ed88f88c71498de"
+}

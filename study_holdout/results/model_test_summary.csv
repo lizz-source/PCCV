@@ -1,0 +1,2 @@
+﻿representation,seed,epochs,selected_epoch,validation_bc,test_bc,test_jsd,test_mean_absent_mass,seconds,checkpoint_sha256
+annotation,11,27,19,0.4167024163395816,0.37864518039585915,0.12188044312300489,0.0004626454752349887,365.8655556999729,ab3ae6064813d73bb6ae75f125210eabc1b7401e7d0bd6856adeca755382591a

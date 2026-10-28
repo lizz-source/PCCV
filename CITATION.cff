@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and identify the code version used."
+type: software
+title: "Calibrated carrier attribution for pathway sensitivity in microbial composition models"
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Zhuangzhi
+  - family-names: Shen
+    given-names: Yaojia
+  - family-names: Liu
+    given-names: Xiaogang
+  - family-names: Liu
+    given-names: Haipo
+  - family-names: Qin
+    given-names: Hui
+  - family-names: Li
+    given-names: Zhihui
+  - family-names: Liu
+    given-names: Shuangping
+  - family-names: Mao
+    given-names: Jian
+abstract: "Carrier deletion games, exact repeated-token inference, and probe-calibrated control variates with frozen computational references."

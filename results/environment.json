@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "torch": "2.5.1+cpu",
+  "numpy": "2.3.5",
+  "torch_threads": 2,
+  "device": "cpu",
+  "input_hashes": {
+    "final_full_model.pth": "f85571bb53a7cb144e3671bdc7a85ca22b0718e292dc7961370c991db54e8ed4",
+    "pathway_perturbation_raw_bc.csv": "e692a9581479292b074cd681cf451504f37d5442d6abb9d4a167d9de6a5e901d",
+    "species_abundance.csv": "1aeb7f6363abc0d957182a1ef436e03cea8b7b84b19350355b48a7a7d3e94821",
+    "species_function_matrix_filtered.csv": "d933c49ceaf529c2ab0ce1d7c926b4b4772f396e1a446d95dd1305d0378a22dd"
+  }
+}

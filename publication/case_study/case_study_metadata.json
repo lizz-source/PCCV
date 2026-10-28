@@ -1,0 +1,24 @@
+{
+  "case_id": "s00_p00",
+  "sample_id": "CM.29_WGS",
+  "pathway_id": "ko02020",
+  "carriers": 78,
+  "selection": "First test sample and first pathway in frozen real_case_plan.json; no selection by attribution contrast.",
+  "display_rule": "Union of top three abundance ranks, top three descending signed PCCV ranks, and minimum signed PCCV carrier.",
+  "ranking": "Descending signed contribution or abundance; species identifier breaks ties; ranks use all 78 carriers.",
+  "negative_pccv_carriers": 9,
+  "displayed_species": [
+    "Ruminococcus_gnavus",
+    "Escherichia_coli",
+    "Odoribacter_splanchnicus",
+    "Desulfovibrio_piger",
+    "Butyrivibrio_sp_CAG_318",
+    "Clostridium_sp_CAG_590"
+  ],
+  "estimates": "Archived averages of two sampling runs; no new fit, inference or statistical test.",
+  "interpretation": "Model coordinate-ablation contributions, not measured activity or verified biological causation.",
+  "source_sha256": {
+    "results/real_attributions.csv": "4aec4f3713bab77a6bb12fcd059f7d67b762fa229fa546a61687c1d4c0e9a916",
+    "results/real_case_plan.json": "119bf84218ca8da3c0af3af8127d9800867724bf98bc900d4d9d9a0c281b32ba"
+  }
+}

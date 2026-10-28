@@ -1,0 +1,10 @@
+{
+  "sample_id": "MH0184",
+  "pathway_id": "ko00562",
+  "n_carriers": 101,
+  "joint_bc": 0.024055954068899155,
+  "query_evaluations_this_run": 13027,
+  "seconds_this_run": 20.051470900012646,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "81070026627071268c34f612ee1e5af1ee06de5e10ed9af69032990a2dac70f4"
+}

@@ -1,0 +1,10 @@
+{
+  "sample_id": "GupDM_HAK",
+  "pathway_id": "ko02020",
+  "n_carriers": 47,
+  "joint_bc": 0.027568375691771507,
+  "query_evaluations_this_run": 6223,
+  "seconds_this_run": 3.766349399986211,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "3fbc98c1b2a23b43cd70997364dde844bfd0601bd678b6b79323e8288bdae92c"
+}

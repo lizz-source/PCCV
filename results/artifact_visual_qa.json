@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-27",
+  "reviewer": "Codex visual inspection",
+  "figures_reviewed": 8,
+  "review_method": "All eight PNGs inspected in a contact sheet; revised Figures 2 and 8 also inspected individually.",
+  "checks": [
+    "Titles, axes and legends readable; no observed clipping or text overlap.",
+    "Figure 2 symmetric log scale and Figure 8 log scale are identified in axes and captions.",
+    "Both successful and unsuccessful mechanism results remain displayed.",
+    "Source tables and captions exist for every main figure."
+  ],
+  "status": "passed for manuscript drafting",
+  "remaining_scope": "Final journal page layout and manuscript PDF verification occur during writing."
+}

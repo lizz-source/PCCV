@@ -1,0 +1,25 @@
+{
+  "checks": [
+    {
+      "check": "degree_1_enumeration",
+      "max_error": 1.3322676295501878e-15,
+      "pass": true
+    },
+    {
+      "check": "degree_3_enumeration",
+      "max_error": 2.6645352591003757e-15,
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "cases": 40,
+  "rows": 1600,
+  "degree": 3,
+  "frontier_terms": 298,
+  "budgets_permutations": [
+    32,
+    64
+  ],
+  "sampling": "kernel proportional; both paired and unpaired",
+  "limitations": "Independent Algorithm 1 implementation, not official full package; leverage sampling and adaptive frontier selection are not evaluated."
+}

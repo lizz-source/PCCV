@@ -1,0 +1,12 @@
+{
+  "Figure 1": "Figure9_method_framework",
+  "Figure 2": "Figure1_exact_sparse_inference",
+  "Figure 3": "Figure4_predictor_controls",
+  "Figure 4": "Figure2_ground_truth_attribution",
+  "Figure 5": "Figure3_matched_budget_estimation",
+  "Figure 6": "Figure8_larger_games_and_kernel_baseline",
+  "Figure 7": "Figure5_real_perturbation_faithfulness",
+  "Figure 8": "Figure10_real_carrier_case",
+  "Figure 9": "Figure6_exactness_and_sampling",
+  "Figure S1": "Figure7_carrier_context_profiles"
+}

@@ -1,0 +1,12 @@
+{
+  "compression_probability_max_error": 3.159046173095703e-06,
+  "equivariance_max_error": 1.9371509552001953e-07,
+  "gradient_max_abs_error_float64": 1.817990202823694e-15,
+  "gradient_loss_difference": 1.1102230246251565e-16,
+  "exact_shapley_vs_permutation_max_error": 5.551115123125783e-16,
+  "speedup_median": 19.858339269731182,
+  "speedup_min": 13.901506933563503,
+  "speedup_max": 26.989035651439416,
+  "pass": true,
+  "zero_endpoint_higher_order_dummy_error": 9.25185853854297e-18
+}

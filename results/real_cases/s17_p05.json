@@ -1,0 +1,10 @@
+{
+  "sample_id": "YSZC12003_36390",
+  "pathway_id": "ko00333",
+  "n_carriers": 106,
+  "joint_bc": 0.02145848050713539,
+  "query_evaluations_this_run": 13657,
+  "seconds_this_run": 25.78090599999996,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "4212befd4e842aa64d7b2afb881e6b9dcf87c4367239e9f82df6de0c9c139460"
+}

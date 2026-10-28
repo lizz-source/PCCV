@@ -1,0 +1,7 @@
+﻿comparison,metric,n_sample_clusters,mean_difference,bootstrap_q025,bootstrap_q975
+antithetic_mc minus proportional,relative_deletion_auc,18,0.7228004724724171,0.5818722289251799,0.9145569500884554
+antithetic_mc minus proportional,relative_insertion_auc,18,-0.3055646530436552,-0.4508620605685177,-0.18360685101234028
+probe_cubic_cv minus proportional,relative_deletion_auc,18,0.7240851841096647,0.5828113316087021,0.9120323085850665
+probe_cubic_cv minus proportional,relative_insertion_auc,18,-0.30796076288678725,-0.46134421279733717,-0.18384683548527242
+probe_cubic_cv minus antithetic_mc,relative_deletion_auc,18,0.0012847116372476952,-0.0025815671989048643,0.005866951725160412
+probe_cubic_cv minus antithetic_mc,relative_insertion_auc,18,-0.002396109843132042,-0.0095956636237407,0.0033639098486286344

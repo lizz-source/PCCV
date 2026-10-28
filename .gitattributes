@@ -1,0 +1,7 @@
+# Preserve the exact reference-file bytes used in SHA-256 manifests.
+* -text
+*.png binary
+*.npz binary
+*.npy binary
+*.pth binary
+*.rda binary

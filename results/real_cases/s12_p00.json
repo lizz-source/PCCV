@@ -1,0 +1,10 @@
+{
+  "sample_id": "CRC_MR_SBJ34H_17",
+  "pathway_id": "ko02020",
+  "n_carriers": 96,
+  "joint_bc": 0.0402781143784523,
+  "query_evaluations_this_run": 12397,
+  "seconds_this_run": 22.718779199989513,
+  "checkpoint": "annotation_seed11.pth",
+  "case_file_sha256": "e855ec35d3f42313924badf4c2dc4211f9cdf443af5077cb78f3179fb9b0418d"
+}
