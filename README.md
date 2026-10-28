@@ -1,4 +1,4 @@
-# Calibrated carrier attribution for microbial composition models
+# Efficient and Verifiable Carrier-Level Shapley Attribution for Pathway Sensitivity in Microbial Composition Models
 
 This repository accompanies **Calibrated carrier attribution for pathway sensitivity in microbial composition models**. It contains the evaluated predictors, carrier deletion games, the probe-calibrated control variate estimator (PCCV), exact references and publication figure code.
 
